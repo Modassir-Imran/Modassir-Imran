@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/Ashutosh-PMishra/modassir-imran.png)
 
 <h1 align="center">Hi 👋, I'm Modassir Imran</h1>
 <h3 align="center">A passionate Software Engineer Developer from India.</h3>
