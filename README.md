@@ -22,3 +22,40 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=modassirimran904&show_icons=true&locale=en&layout=compact" alt="modassirimran904" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=modassirimran904&show_icons=true&locale=en" alt="modassirimran904" /></p>
+
+## 📚 Certifications
+1. Java basic & advance course [Udemy]
+2. Mastering Java from SpringBoard - [SpringBoard]
+3. CodeKaze Participation certificate by Coding Ninjas, 08/2023 - [Coding Ninjas]
+
+## ⚡ Recent Projects
+### Quick-X Ecommerce Project using MERN stack
+[![Code](https://github.com/Modassir-Imran/E-commerce-Web-App)  
+[![Live](https://guileless-banoffee-cfbe3a.netlify.app/)  
+
+- Created an eCommerce platform using MERN stack with Redux Toolkit, SCSS, Multer, and TypeScript.
+- Implemented Google authentication via Firebase for user login.
+- Features divided into user and admin views. Users can search, view orders, and make purchases. Admins can alter products, users, and dashboard.
+- Stripe integrated for secure payments.
+- Applied Lazy loading to boost performance.
+
+**Technologies used:** React.js, Redux Toolkit, SCSS (Front-end), Node.js, Express.js (Back-end), MongoDB (Database), Firebase (Authentication), Multer (File-Upload), TypeScript, Stripe (Payment Integration)  
+*Completion Date: 04/2024*
+
+### Umedia Movie App using React & Tailwind CSS
+[![Code](https://github.com/Modassir-Imran/Movie-Recommended-App) 
+[![Live]()  
+
+- The Movie Recommendation and Search project is designed to provide users with a seamless experience in discovering and exploring movies and web series. Leveraging React and Tailwind CSS, this application fetches data from the TMDB database using Axios for API requests.
+- Features:
+  - Movies: Searching Movies, Recommended movies, latest movies, Trending movies, Popular movies
+  - Web Series: Airing today, On the Air, Top rated, Popular, Recommended, and actor list
+  - Additional Features: Watch trailers of movies, Filter data based on timestamp, Lazy loading, Infinite scrolling, State management using Redux Toolkit
+
+**Technologies used:** React.js, Redux Toolkit, Tailwind CSS, Axios  
+*Completion Date: 03/2024*
+
+## 🎨 Interests and Hobbies
+- 📊 Dashboard Creation
+- 🐛 Debugging
+- 🔧 Issue Resolution
